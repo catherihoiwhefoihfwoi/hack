@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>About Page</title>
+      <link rel = "stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+      <link rel = "stylesheet" href="static/about_pageStyle.css">
+  </head>
+  <body>
+    <div class="head">
+    <h1>Creators</h1>
+    </div>
+    <div class="body">
+    <p>Hey! This is the about page, which is about us - the creators!<br>
+      The masterminds behind this one-of-a-kind game are Eliana, Preyanka, Amrita, Cynthia, and Nicole. 
+      Our game is a dating simulator, but not just any dating simulator. It's one where you have the 
+      opportunity to go on a date with the one and only Gru from Despicable Me. On your date, Gru 
+      will ask you a series of questions where we will provide with two options. He will then ask you 
+      another question depending on the option you chose. Once all questions are answered, Gru will 
+      either fall in love with you or simply reject you based on the options you chose. We hope you 
+      have fun playing our game! And remember to choose wisely otherwise your chances of love will be 
+      zero to none. Good luck!</p>
+    </div>
+    <br>
+    <p>
+      
+      <button 
+        class="btn btn-warning"
+        onclick="window.location.href = '/'">
+        
+        
+    
+        HOME 
+      </button>
+        <img class="grumeme"
+        src="https://cdn.glitch.global/4525e3ab-3553-4987-8263-482c1b9ef2fa/gru%20meme.jpg?v=1723770078779"
+        alt="gru image"
+        width="408"
+        height="600">
+        
+    </p>
+  </body>
+</html>
