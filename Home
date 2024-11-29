@@ -1,1 +1,30 @@
 
+        Geography 
+      </button>
+       </div>
+
+
+      <!-- ABOUT BUTTON -->
+    <div class="about">
+      
+      <button
+        class="btn btn-warning btn-lg"
+        onclick="window.location.href = 'about_page'">
+      
+        ABOUT
+      </button>
+    </div>
+<!--
+      <img
+        src="https://cdn.glitch.global/4525e3ab-3553-4987-8263-482c1b9ef2fa/ced565f1bb035b3445de68b86ab0dcad.jpg?v=1723745625005"
+        alt="gru image"
+        class ="center" 
+        width="408"
+        height="600">
+    -->
+
+
+    </p>
+  </body>
+</html>
+
