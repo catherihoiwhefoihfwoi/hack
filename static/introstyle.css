@@ -1,0 +1,13 @@
+.image{
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  margin-top: 40px;
+  margin-left: 550px;
+  margin-right: auto;
+}
+
+.button{
+  margin-left: 60px;
+  margin-bottom: 20px;
+}

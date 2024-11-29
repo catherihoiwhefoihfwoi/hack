@@ -1,0 +1,71 @@
+<html lang="en">
+<head>
+    <title>Course Choices</title>
+    <style>
+
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Roboto', sans-serif;
+            flex-direction: column;
+            height: 100vh;
+            background-color: #f0f8ff; 
+        }
+        
+        .btn {
+            padding: 15px 20px;
+            font-size: 16px;
+            border: 2px solid transparent; 
+            border-radius: 5px;
+            cursor: pointer;
+            color: white;
+            transition: all 0.3s ease;
+        }
+
+        .science {
+            background-color: #4CAF50;
+        }
+
+        .math {
+            background-color: #007BFF;
+        }
+
+        .geography {
+            background-color: #FF5733;
+        }
+
+        .science:hover {
+            background-color: #45a049;
+            border-color: #45a049;
+        }
+
+        .math:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+        .geography:hover {
+            background-color: #e04c2b;
+            border-color: #e04c2b;
+        }
+
+        .btn {
+            border: 2px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+	<h1> Choose your course:   </h1>
+
+    <a href="science.html">
+        <button class="btn science">Science</button>
+    </a>
+    <a href="math.html">
+        <button class="btn math">Math</button>
+    </a>
+    <a href="geography.html">
+        <button class="btn geography">Geography</button>
+    </a>
+</body>
+</html>

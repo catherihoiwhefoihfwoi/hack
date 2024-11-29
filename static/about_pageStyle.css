@@ -1,0 +1,19 @@
+.head{
+  text-align: center;
+}
+
+.body{
+  text-align: center; 
+}
+
+.grumeme{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+body{
+  background-color: #FFFAA0;
+} 
